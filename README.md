@@ -1,3 +1,4 @@
+![0_d58iZ6esNNcfntQ7](https://user-images.githubusercontent.com/107294232/208307987-9c8590af-b511-41c7-91a9-24d6875a19cb.jpg)
 For any business , Customer churn is one of the most crucial problem. 
  It is the rate at which clients opt out of purchasing more of a company’s product or services
 
